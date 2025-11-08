@@ -93,7 +93,7 @@ Outside the tech world, you’ll often find me over a game of chess or good book
 
 ## GitHub Streak
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nzrrs&theme=dark" alt="GitHub Streak" /></a>
+  <a href="#"><img src="https://streak-stats.demolab.com?user=nzrrs&theme=dark" alt="GitHub Streak" /></a>
 </div>
 
 <br />
