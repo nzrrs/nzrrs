@@ -95,9 +95,3 @@ Outside the tech world, you’ll often find me over a game of chess or good book
 <div align="center">
   <a href="#"><img src="https://streak-stats.demolab.com?user=nzrrs&theme=dark" alt="GitHub Streak" /></a>
 </div>
-
-<br />
-
-<div align="center">
-  <em>"Code is like humor. When you have to explain it, it's bad." – Cory House</em>
-</div>
