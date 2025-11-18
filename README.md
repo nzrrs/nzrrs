@@ -40,7 +40,7 @@
 
 ## About Me
 I’m a Full-Stack Developer student passionate about creating **modern web applications**. I enjoy learning new technologies, exploring frontend and backend development, and applying my skills in real projects.  
-I’m particularly focused on **React**, **Tailwind CSS** and **LARAVEL**, aiming to build interactive and responsive web solutions.
+I’m particularly focused on **React**, **Tailwind CSS** and **LARAVEL**(soon), aiming to build interactive and responsive web solutions.
 
 **I'd love to collaborate on:**
 - Full-Stack Web Applications
