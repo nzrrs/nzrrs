@@ -13,12 +13,7 @@
   </p>
 </div>
 
-<hr />
 
-<!-- GIF -->
-<div align="center">
-  <img height="256" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenpxd2R6bW9oejFiNjJoeWw3NDdmODd2OXY0Mnp3cGhqZGcybXVrYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jzHFPlw89eTqU/giphy.gif" alt="Coding GIF"/>
-</div>
 
 <br />
 
@@ -40,7 +35,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram" />
   </a>
 </div>
-
+<hr>
 <br clear="both" />
 
 ## About Me
